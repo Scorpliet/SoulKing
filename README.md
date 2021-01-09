@@ -1,3 +1,33 @@
 # SoulKing
 Help with commands
+I will add more minigames as I keep updating the bot
+# Greetings:
+hello brook, hello soul king
 
+# Music:
+play 
+join  _Joins a voice channel_
+pause _Pauses the current playing song_
+resume _Resumes a currently paused song_
+now _Shows the currently playing song_ 
+shuffle _Shuffles the queue_
+remove _Removes a song from the queue with specified index_
+skip _Skips the current song based on 2 votes though the song requester can skip it without votes_
+queue _Displays the queue with songs to be played_
+stop _Stops playing song and clears the queue (doesn't leave the voice channel)_
+leave _Clears the queue and leaves the voice channel_
+loop _Repeats the current song, invoke the command again to unloop_
+
+# Misc/Chat 
+
+do: requires an helping verb arg (do, will, should, is, are + you/I + anything) 
+    example: brook should I go to sleep
+45: brook sends a random 45 degree embed, an inside joke only one piece fans know
+
+# Games
+wordguess: think of a word and the bot will guess it based on your input
+
+# Upcoming commands:
+Games: duel (b/w 2 members)
+       tic tac toe
+New Image Category       

@@ -30,7 +30,7 @@ hello brook, hello soul king
 **loop** _Repeats the current song, invoke the command again to unloop_
 
 
-## Misc/Chat 
+## Misc/Chat/Fun 
 
 **do**: requires an helping verb arg (do, will, should, is, are + you/I + anything) 
 
@@ -38,6 +38,7 @@ example: `brook should I go to sleep`
     
 **45**: brook sends a random 45 degree embed, an inside joke only one piece fans know
 
+**see my pants**: brook sends a an embeded image with reaction 
 
 ## Games
 **wordguess**: think of a word and the bot will guess it based on your input

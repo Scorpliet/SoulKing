@@ -4,6 +4,30 @@ I will add more minigames as I keep updating the bot
 ## Greetings:
 hello brook, hello soul king
 
+
+## Misc/Chat/Fun 
+
+**do**: requires an helping verb arg (do, will, should, is, are + you/I + anything)
+
+**does**: (does+ user+ anyting)
+
+example: `brook should I go to sleep`
+
+`brook does @EpicUser cry when he sleeps`
+    
+**45**: brook sends a random 45 degree embed, an inside joke only one piece fans know
+
+**see my pants**: brook sends a an embeded image with reaction 
+
+## Games
+**wordguess**: think of a word and the bot will guess it based on your input
+
+## Upcoming commands:
+**Games**: duel (b/w 2 members) ,  tic tac toe
+       
+**New Image Category**  
+
+
 ## Music:
 **play**  _Plays a song based on search query (url is not supported yet)_
 
@@ -29,21 +53,3 @@ hello brook, hello soul king
 
 **loop** _Repeats the current song, invoke the command again to unloop_
 
-
-## Misc/Chat/Fun 
-
-**do**: requires an helping verb arg (do, will, should, is, are + you/I + anything) 
-
-example: `brook should I go to sleep`
-    
-**45**: brook sends a random 45 degree embed, an inside joke only one piece fans know
-
-**see my pants**: brook sends a an embeded image with reaction 
-
-## Games
-**wordguess**: think of a word and the bot will guess it based on your input
-
-## Upcoming commands:
-**Games**: duel (b/w 2 members) ,  tic tac toe
-       
-**New Image Category**  

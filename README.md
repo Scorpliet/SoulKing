@@ -16,7 +16,7 @@ example: `brook should I go to sleep`
 
 `brook does @EpicUser cry when he sleeps`
     
-**45**: brook sends a random 45 degree embed, an inside joke only one piece fans know
+**45**: brook sends a random 45 degree embed, an inside joke
 
 **see my pants**: brook sends a an embeded image with reaction 
 

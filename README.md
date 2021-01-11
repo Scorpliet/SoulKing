@@ -23,7 +23,7 @@ example: `brook should I go to sleep`
 **wordguess**: think of a word and the bot will guess it based on your input
 
 ## Upcoming commands:
-**Games**: duel (b/w 2 members) ,  tic tac toe, points system on winning games
+**Games**: duel (b/w 2 members) and more games , points system on winning games
        
 **New Image Category**  
 

@@ -1,6 +1,7 @@
 # SoulKing
-Help with commands
-I will add more minigames as I keep updating the bot
+A bot based on a fictional character from One Piece
+
+_(I will add more minigames/features as I keep updating the bot)_
 ## Greetings:
 hello brook, hello soul king
 
@@ -22,7 +23,7 @@ example: `brook should I go to sleep`
 ## Games
 **wordguess**: think of a word and the bot will guess it based on your input
 
-## Upcoming commands:
+## Upcoming features:
 **Games**: duel (b/w 2 members) and more games , points system on winning games
        
 **New Image Category**  

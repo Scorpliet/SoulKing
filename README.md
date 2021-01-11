@@ -1,5 +1,5 @@
 # SoulKing
-A bot based on a fictional character from One Piece
+A bot based on a fictional character
 
 _(I will add more minigames/features as I keep updating the bot)_
 ## Greetings:

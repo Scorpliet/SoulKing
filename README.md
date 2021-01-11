@@ -7,9 +7,9 @@ hello brook, hello soul king
 
 ## Misc/Chat/Fun 
 
-**do**: requires an helping verb arg (do, will, should, is, are + you/I + anything)
+**do**: requires an helping verb arg (do, will, should, are + you/I + anything)
 
-**does**: (does+ user+ anyting)
+**does**: (does, has, is + user+ anything)
 
 example: `brook should I go to sleep`
 
@@ -23,7 +23,7 @@ example: `brook should I go to sleep`
 **wordguess**: think of a word and the bot will guess it based on your input
 
 ## Upcoming commands:
-**Games**: duel (b/w 2 members) ,  tic tac toe
+**Games**: duel (b/w 2 members) ,  tic tac toe, points system on winning games
        
 **New Image Category**  
 
@@ -52,4 +52,5 @@ example: `brook should I go to sleep`
 **leave** _Clears the queue and leaves the voice channel_
 
 **loop** _Repeats the current song, invoke the command again to unloop_
+
 
